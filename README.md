@@ -1,1 +1,0 @@
-# go-safe-note-api
